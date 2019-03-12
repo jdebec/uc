@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# But not these folders/files
+!.gitignore
+!rss-reading
+!text-to-speech
